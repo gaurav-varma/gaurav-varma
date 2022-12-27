@@ -12,6 +12,7 @@ Personal Links:
 - [Website](https://gauravvarma.dev)
 - [Twitter](https://twitter.com/gauravvarmaa)
 - [Linkedin](https://www.linkedin.com/in/gauravvarmaa)
+- [Portfolio](https://angel.co/u/gauravvarma)
 
 Blog Posts:
 - [Rails 7 Adds from option to ActiveSupport::TestCase#assert_no_changes](https://www.bigbinary.com/blog/rails-7-adds-from-option-to-assert_no_changes)
