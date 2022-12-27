@@ -1,6 +1,6 @@
 Hey 👋🏽, I'm [Gaurav!](https://gauravvarma.dev), A Full Stack Engineer from India.
 
-Development Stack: Ruby on Rails, Javascript, Postgres
+Development Stack: Ruby on Rails, Javascript, React.js, Node.js, Postgres, MySQL
 
 About me:
 - 👨‍💻 I’m currently working on [gauravvarma.dev](https://github.com/gaurav-varma/gauravvarma.dev).
