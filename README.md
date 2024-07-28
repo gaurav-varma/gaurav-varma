@@ -3,7 +3,7 @@ Hey 👋🏽, I'm [Gaurav!](https://gauravvarma.dev), A Full Stack Engineer from
 Development Stack: Ruby on Rails, Javascript, React.js, Node.js, PostgreSQL, MySQL
 
 About me:
-- 👨‍💻 I’m currently working on [avrealties.com](https://github.com/gaurav-varma/avrealties.com).
+- 👨‍💻 I’m currently working on [intelisys.app](https://intelisys.app) and [avrealties.com](https://github.com/gaurav-varma/avrealties.com).
 - 📖 I’m currently learning Next.js.
 - 🤝 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: gauravvarma.dev@gmail.com
